@@ -23,38 +23,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Event-Based Product Analytics)
 
-- **[Mixpanel](https://mixpanel.com/)**  
-  Leading event-based analytics platform with strong user behavior insights and AI features.
-
-- **[Amplitude](https://amplitude.com/)**  
-  Comprehensive product analytics with advanced behavioral cohort analysis and predictive features.
-
-- **[OpenPanel](https://openpanel.com/)**  
-  Privacy-first analytics platform with event tracking and user journey visualization.
-
-- **[PostHog](https://posthog.com/)**  
-  Open-source-friendly product analytics with session replay and feature flags.
-
-- **[Heap](https://heap.io/)**  
-  Automatic event capture and retroactive analysis platform.
-
-- **[Pendo](https://www.pendo.io/)**  
-  Product experience platform with in-app guidance and analytics.
-
-- **[Google Analytics 4 (GA4)](https://analytics.google.com/)**  
-  Free event-based analytics from Google with strong integration ecosystem.
-
-- **[Matomo](https://matomo.org/)**  
-  Privacy-focused analytics platform with full data ownership.
-
-- **[Contentsquare](https://contentsquare.com/)**  
-  Digital experience analytics with session replay and zone-based insights.
-
-- **[FullStory](https://www.fullstory.com/)**  
-  Session replay and behavioral analytics platform with AI insights.
-
-- **[Moesif](https://www.moesif.com/)**  
-  API analytics and product analytics for developers with strong event tracking.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Mixpanel](https://mixpanel.com/)** | Leading event-based analytics platform with strong user behavior insights and AI features. | Starts at $20/mo | 20M events/month |
+| **[Amplitude](https://amplitude.com/)** | Comprehensive product analytics with advanced behavioral cohort analysis and predictive features. | Starts at $49/mo | 10M events/month |
+| **[OpenPanel](https://openpanel.com/)** | Privacy-first analytics platform with event tracking and user journey visualization. | Starts at $50/mo | 100k events/month |
+| **[PostHog](https://posthog.com/)** | Open-source-friendly product analytics with session replay and feature flags. | Pay as you go | 1M events/month |
+| **[Heap](https://heap.io/)** | Automatic event capture and retroactive analysis platform. | Custom pricing | 10k sessions/month |
+| **[Pendo](https://www.pendo.io/)** | Product experience platform with in-app guidance and analytics. | Custom pricing | 500 MAU |
+| **[Google Analytics 4 (GA4)](https://analytics.google.com/)** | Free event-based analytics from Google with strong integration ecosystem. | Free (GA4) / Custom (360) | Unlimited (Standard) |
+| **[Matomo](https://matomo.org/)** | Privacy-focused analytics platform with full data ownership. | Starts at €19/mo (Cloud) | Self-hosted is Free |
+| **[Contentsquare](https://contentsquare.com/)** | Digital experience analytics with session replay and zone-based insights. | Custom pricing | No free tier |
+| **[FullStory](https://www.fullstory.com/)** | Session replay and behavioral analytics platform with AI insights. | Custom pricing | 1,000 sessions/month |
+| **[Moesif](https://www.moesif.com/)** | API analytics and product analytics for developers with strong event tracking. | Starts at $85/mo | 500,000 events/month |
 
 ## Open-Source GitHub Projects
 
