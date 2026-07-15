@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Event-Based Product Analytics" width="100%">
+</p>
+
 # Awesome-Event-Based-Product-Analytics
 ## Top Event-Based Product Analytics Tools Ecosystem
 
