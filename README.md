@@ -39,49 +39,47 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-### Dedicated Event-Based Analytics Tools
+- **[Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) — Apache Superset for data exploration and visualization.
 
-- **[PostHog](https://github.com/PostHog/posthog)**  
-  Complete open-source product analytics platform with event tracking, session replay, feature flags, and A/B testing.
+- **[Metabase](https://github.com/metabase/metabase)** [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) — Open-source business intelligence for analyzing event data.
 
-- **[Matomo](https://github.com/matomo-org/matomo)**  
+- **[Redash](https://github.com/getredash/redash)** [![Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers) — Open-source data visualization and querying tool.
+
+- **[Matomo](https://github.com/matomo-org/matomo)** [![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
   Leading open-source analytics platform with full event tracking, heatmaps, and data ownership.
 
-- **[Plausible](https://github.com/plausible/analytics)**  
-  Lightweight, privacy-first open-source analytics alternative focused on simplicity.
-
-- **[Umami](https://github.com/umami-software/umami)**  
+- **[Umami](https://github.com/umami-software/umami)** [![Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
   Simple and elegant open-source website analytics with event tracking.
 
-- **[Fathom](https://github.com/usefathom/fathom)**  
-  Privacy-focused open-source analytics with minimal tracking.
+- **[PostHog](https://github.com/PostHog/posthog)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+  Complete open-source product analytics platform with event tracking, session replay, feature flags, and A/B testing.
 
-- **[Ackee](https://github.com/ackee/ackee)**  
-  Open-source analytics tool with a focus on privacy and clean interface.
+- **[Plausible](https://github.com/plausible/analytics)** [![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
+  Lightweight, privacy-first open-source analytics alternative focused on simplicity.
 
-- **[Shynet](https://github.com/milesmcc/shynet)**  
-  Self-hosted, privacy-respecting analytics platform.
-
-- **[RudderStack](https://github.com/rudderlabs/rudder-server)**  
-  Open-source customer data platform for collecting and routing events to multiple destinations.
-
-- **[Snowplow](https://github.com/snowplow/snowplow)**  
-  Open-source behavioral data platform with rich event modeling and real-time processing.
-
-- **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry-specification)**  
+- **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry-specification)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-specification?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-specification/stargazers)  
   Industry-standard observability framework for collecting events and traces across applications.
 
-### Additional Strong Open-Source Options
+- **[Snowplow](https://github.com/snowplow/snowplow)** [![Stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)  
+  Open-source behavioral data platform with rich event modeling and real-time processing.
 
-- **[Metabase](https://github.com/metabase/metabase)** — Open-source business intelligence for analyzing event data.
-- **[Superset](https://github.com/apache/superset)** — Apache Superset for data exploration and visualization.
-- **[Redash](https://github.com/getredash/redash)** — Open-source data visualization and querying tool.
-- **[LangGraph Analytics Agents** for building custom AI-powered insights.
-- **[n8n** workflows for event processing and automation.
+- **[Fathom](https://github.com/usefathom/fathom)** [![Stars](https://img.shields.io/github/stars/usefathom/fathom?style=social&color=white)](https://github.com/usefathom/fathom/stargazers)  
+  Privacy-focused open-source analytics with minimal tracking.
+
+- **[Ackee](https://github.com/ackee/ackee)** [![Stars](https://img.shields.io/github/stars/ackee/ackee?style=social&color=white)](https://github.com/ackee/ackee/stargazers)  
+  Open-source analytics tool with a focus on privacy and clean interface.
+
+- **[RudderStack](https://github.com/rudderlabs/rudder-server)** [![Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
+  Open-source customer data platform for collecting and routing events to multiple destinations.
+
+- **[Shynet](https://github.com/milesmcc/shynet)** [![Stars](https://img.shields.io/github/stars/milesmcc/shynet?style=social&color=white)](https://github.com/milesmcc/shynet/stargazers)  
+  Self-hosted, privacy-respecting analytics platform.
+
+- **[LangGraph Analytics Agents]** for building custom AI-powered insights.
+- **[n8n]** workflows for event processing and automation.
 - Many community **self-hosted PostHog** and **Matomo** deployments.
 
 **Frameworks for building custom analytics**: Combine **PostHog**, **Snowplow**, **RudderStack**, and **OpenTelemetry** with **Metabase** or **Superset** for a complete open-source event analytics stack.
-
 ## How to Contribute
 
 1. Fork the repo.
