@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Event-Based Product Analytics" width="100%">
 </p>
 
-# Awesome-Event-Based-Product-Analytics
-## Top Event-Based Product Analytics Tools Ecosystem
+# 🚀 Awesome-Event-Based-Product-Analytics
+## 🌟 Top Event-Based Product Analytics Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Event Tracking, User Behavior & Product Analytics*  
@@ -17,13 +17,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📑 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
 ### Core Platforms (Event-Based Product Analytics)
 
@@ -41,7 +41,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Matomo](https://matomo.org/)** | Privacy-focused analytics platform with full data ownership. | Starts at €19/mo (Cloud) | Self-hosted is Free | $20M+ (Revenue) |
 | **[OpenPanel](https://openpanel.com/)** | Privacy-first analytics platform with event tracking and user journey visualization. | Starts at $50/mo | 100k events/month | <$10M |
 
-## Open-Source GitHub Projects
+## 🌐 Open-Source GitHub Projects
 
 - **[Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) — Apache Superset for data exploration and visualization.
 
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - Many community **self-hosted PostHog** and **Matomo** deployments.
 
 **Frameworks for building custom analytics**: Combine **PostHog**, **Snowplow**, **RudderStack**, and **OpenTelemetry** with **Metabase** or **Superset** for a complete open-source event analytics stack.
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -93,7 +93,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Event-based analytics must comply with privacy regulations (GDPR, CCPA).
