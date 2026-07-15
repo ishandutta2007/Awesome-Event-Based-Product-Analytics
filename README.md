@@ -3,6 +3,8 @@
 </p>
 
 # 🚀 Awesome-Event-Based-Product-Analytics
+
+<!-- SEO Keywords: product analytics, event tracking, user behavior, analytics tools, mixpanel, amplitude, open source analytics, posthog, ga4, SaaS analytics, cohort analysis -->
 ## 🌟 Top Event-Based Product Analytics Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
